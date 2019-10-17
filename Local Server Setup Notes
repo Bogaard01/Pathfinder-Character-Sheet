@@ -1,0 +1,33 @@
+cmd 
+create-react-app (project name)
+creates the project and set up a server and lots of stuff.
+
+cmd
+cd (name of project)/
+npm start
+launches dev server on port 3000.
+
+project folder is in "C:\Users\bogaa\(name of project)\"
+
+cmd
+in project folder 
+npm i react-icons --save
+installs icon files to project.
+
+Colors bad idea? too much riot of color?
+Str yellow
+Dex green
+Con red
+Int cyan
+Wis teal
+Cha indigo
+
+{       id: "00",
+        title: "Acrobatics",
+        ranks: "0",
+        abilityId: "01",
+        value: "0",
+        equipment: "0",
+        feat: "0",
+        trait: "0",
+        temp: "0" },
