@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/css/bootstrap.css"; //Will need bootstrap installed to same location on desktop and laptop.
 import "bootstrap/dist/css/bootstrap-grid.css";
 import "./index.css";
 import Character from "./components/character";
